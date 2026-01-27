@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to CesarpaBank accounts service related Production API v1.0"
+  message: "Welcome to CesarpaBank accounts service related Production API v1.0 hehe"
   contactDetails:
     name: "CesarPa PROD Lead"
     email: "{cipher}fbbe9b18bb9372f3fae9484df54218ddea311d40e0b2f9b979d9a7a10a2a09bb21745ef731ec222a470f3d77dc0510ea"
